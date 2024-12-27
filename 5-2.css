@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fullBox {
+    background: #07081A;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    
+}
+
+nav {
+    display: inline-flex;
+    padding: 28px 200px 0px 200px;
+    justify-content: center;
+    align-items: center;
+    gap: 667px;
+}
+
+.headerCont {
+    color: #FFF;
+    font-size: 16px;
+    border-bottom: 1px solid #261C51;
+}
+
+.logoBox {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.twoheader {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.homeP {
+    color: #8CE900;
+}
+
+.oneMainbox {
+    display: flex;
+    width: 1040px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bestSkin {
+    color: #FFF;
+    font-size: 48px;
+}
+
+
+.twomainBox {
+    display: flex;
+    margin: 0 auto;
+    width: 1040px;
+    background: #242642;
+    padding: 40px 72px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.projectComp {
+    font-size: 56px;
+    color: #8CE900;
+}
+.projectP {
+    color: #C0C0C0;
+    font-size: 20px;
+}
+
+.mainMain {
+    display: flex;
+    gap: 80px;
+    flex-direction: column;
+}
+
+.logoFooter {
+    display: flex;
+    color: #FFF;
+    font-size: 16px;
+    align-items: center;
+}
+
+.digitalP {
+    color: #C0C0C0;
+    font-size: 14px;
+}
+
+.oneFooter {
+    display: flex;
+    width: 264px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.footerBox {
+    display: flex;
+    width: 1040px;
+    align-items: center;
+    gap: 254px;
+    margin: 0 auto;
+}
+
+.navigationBox{
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+    font-size: 16px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.navigationP {
+    color: #8CE900;
+}
+.contactBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    color: #FFF;
+    font-size: 16px;
+
+}
+
+.contactP {
+    color: #8CE900;
+}
